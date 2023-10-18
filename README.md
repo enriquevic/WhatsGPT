@@ -54,6 +54,6 @@ Bem-vindo ao ChatRoot, uma assistente virtual personalizada para a Inglês e CIA
  
   ### Instructions
   Lembre-se de alterar as informações para personalizar da forma que quiser sua assistente. As informações para alterar estão no arquivo instructions.js. 
-  Troque a chave da api no arquivo .evi para uma chave do ChatGPT válida.
+  Troque a chave da api no arquivo .env para uma chave do ChatGPT válida.
   
 Lembre-se de seguir essas instruções para uma interação eficaz com os clientes.
